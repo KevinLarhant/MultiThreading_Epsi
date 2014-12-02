@@ -6,4 +6,5 @@ int main() {
     cout << "Salut, World!" << endl;
     //ugufdsfyuvfodsf
     return 0;
+
 }
