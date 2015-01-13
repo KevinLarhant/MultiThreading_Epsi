@@ -1,25 +1,18 @@
 #include <iostream>
+#include <string>
 
 using namespace std;
 
 int main() {
+    using namespace std;
 
-    int myInt;
+    cout << "Bonjour, bienvenue dans ???:\n";
 
-    // Prints to stdout (or terminal/screen)
-    cout << "Enter your favorite number:\n";
-    // Takes in input
-    cin >> myInt;
-
-    // cout can also be formatted
-    cout << "Your favorite number is " << myInt << "\n";
-    // prints "Your favorite number is <myInt>"
-
-    cerr << "Used for error messages";
+    cout << "Veuillez entrez un nom de joueur";
+    string nom_joueur;
+    cin >> nom_joueur;
 
 
-    cout << "Coucou EE  " << endl;
 
     return 0;
-
 }
