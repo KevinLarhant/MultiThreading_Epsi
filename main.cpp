@@ -18,6 +18,8 @@ int main() {
     cerr << "Used for error messages";
 
 
+    cout << "Coucou " << endl;
+
     return 0;
 
 }
