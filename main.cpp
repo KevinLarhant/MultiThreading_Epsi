@@ -3,7 +3,10 @@
 using namespace std;
 
 int main() {
-    cout << "Salut, World!" << endl;
+    cout << "Salut, pierre!" << endl;
+
+
+
     //ugufdsfyuvfodsf
     return 0;
 
