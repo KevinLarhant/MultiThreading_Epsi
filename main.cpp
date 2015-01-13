@@ -18,7 +18,7 @@ int main() {
     cerr << "Used for error messages";
 
 
-    cout << "Coucou " << endl;
+    cout << "Coucou EE  " << endl;
 
     return 0;
 
